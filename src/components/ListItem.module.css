@@ -1,0 +1,39 @@
+
+.listItem{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    
+}
+
+.word{
+    position: relative;
+    opacity: 0;
+    font-size: 1.4rem;
+    transition: opacity 0.3s linear;
+}
+
+.slide .word{
+    opacity: 1;
+    animation: slide 0.3s linear;
+}
+
+@keyframes slide{
+    0%{
+        left: -15px;
+    }
+    100%{
+        left: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .word{
+        font-size: 1.66667vw;
+    }
+
+    .listItem{
+        margin-bottom: 0;
+        line-height: 3.33333vw;
+    }
+}
