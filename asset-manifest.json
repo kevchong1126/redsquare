@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/redsquare/static/css/main.f1e1a93c.css",
+    "main.js": "/redsquare/static/js/main.8d3ccf07.js",
+    "static/media/img8.jpg": "/redsquare/static/media/img8.011b6a1f995163f0b5c3.jpg",
+    "static/media/img2.jpg": "/redsquare/static/media/img2.fe76793af9b8bf0526db.jpg",
+    "static/media/img3.jpg": "/redsquare/static/media/img3.2abec601119f306b189e.jpg",
+    "static/media/img5.jpg": "/redsquare/static/media/img5.a94349e4e0b07fcea213.jpg",
+    "static/media/img7.jpg": "/redsquare/static/media/img7.15887af41ba280e9af87.jpg",
+    "static/media/img6.jpg": "/redsquare/static/media/img6.74cf2b3c30fc063a4b5f.jpg",
+    "static/media/banner.avif": "/redsquare/static/media/banner.7e94acc88342a67b2a8b.avif",
+    "static/media/img1.avif": "/redsquare/static/media/img1.7e94acc88342a67b2a8b.avif",
+    "static/media/img4.jpg": "/redsquare/static/media/img4.5db8fc438035f3726850.jpg",
+    "static/media/instagram.svg": "/redsquare/static/media/instagram.0a6147e0345e9cdc7a00a9e41d4bbdf4.svg",
+    "static/media/linked.svg": "/redsquare/static/media/linked.2359b98888163251b0ebe67762d7ab9e.svg",
+    "index.html": "/redsquare/index.html",
+    "static/media/twitter.svg": "/redsquare/static/media/twitter.ca2fe4ce552dad9050642a0c16b6678b.svg",
+    "main.f1e1a93c.css.map": "/redsquare/static/css/main.f1e1a93c.css.map",
+    "main.8d3ccf07.js.map": "/redsquare/static/js/main.8d3ccf07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e1a93c.css",
+    "static/js/main.8d3ccf07.js"
+  ]
+}
