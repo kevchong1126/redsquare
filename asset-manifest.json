@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/redsquare/static/css/main.f1e1a93c.css",
-    "main.js": "/redsquare/static/js/main.8d3ccf07.js",
+    "main.css": "/redsquare/static/css/main.b67f3d04.css",
+    "main.js": "/redsquare/static/js/main.57c988d5.js",
     "static/media/img8.jpg": "/redsquare/static/media/img8.011b6a1f995163f0b5c3.jpg",
     "static/media/img2.jpg": "/redsquare/static/media/img2.fe76793af9b8bf0526db.jpg",
     "static/media/img3.jpg": "/redsquare/static/media/img3.2abec601119f306b189e.jpg",
@@ -15,11 +15,11 @@
     "static/media/linked.svg": "/redsquare/static/media/linked.2359b98888163251b0ebe67762d7ab9e.svg",
     "index.html": "/redsquare/index.html",
     "static/media/twitter.svg": "/redsquare/static/media/twitter.ca2fe4ce552dad9050642a0c16b6678b.svg",
-    "main.f1e1a93c.css.map": "/redsquare/static/css/main.f1e1a93c.css.map",
-    "main.8d3ccf07.js.map": "/redsquare/static/js/main.8d3ccf07.js.map"
+    "main.b67f3d04.css.map": "/redsquare/static/css/main.b67f3d04.css.map",
+    "main.57c988d5.js.map": "/redsquare/static/js/main.57c988d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e1a93c.css",
-    "static/js/main.8d3ccf07.js"
+    "static/css/main.b67f3d04.css",
+    "static/js/main.57c988d5.js"
   ]
 }
