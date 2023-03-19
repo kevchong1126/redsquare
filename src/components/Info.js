@@ -7,6 +7,8 @@ const callback = (entries) => {
             if (!entry.target.className.includes('Info_fadeUp__A8p0P')){
                 entry.target.className += ' Info_fadeUp__A8p0P';
             }
+        }else{
+            entry.target.className = entry.target.className.split(' ')[0];
         }
     });
 };

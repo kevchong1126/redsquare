@@ -15,7 +15,7 @@
 
 .slide .word{
     opacity: 1;
-    animation: slide 0.3s linear;
+    animation: slide 0.5s linear;
 }
 
 @keyframes slide{

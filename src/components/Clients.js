@@ -8,8 +8,10 @@ const callback = (entries) => {
         if (entry.isIntersecting){
             if (!entry.target.className.includes('ListItem_slide__0btjc')){
                 entry.target.className += ' ListItem_slide__0btjc';
-                observer.unobserve(entry)
+                
             }
+        }else{
+            entry.target.className = '';
         }
     });
 
